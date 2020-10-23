@@ -17,7 +17,7 @@ After a discography [worksheet 1] that identifies all available recordings of th
 * **41 recordings** in addition reduce the six recordings by Eduard Steuermann to only one (Steuermann 1957a and Steuermann 1963 respectively).
 * **40 recordings** exclude all Steuermann recordings.
 
-[Woksheets 2 and 3] are provided in tsv-format in addition.
+[Worksheet 2] (duration and percentage) and [worksheet 3](https://github.com/petal2020/petal_schoenberg_op_19/blob/master/Schoenberg_op_19_tpo%2Brel_stdv_55-46-41-40.tsv) (tempo and rel. stdv) are provided in tsv-format in addition.
 
 [Worksheet 4] compares the data of all six Steuermann recordings with each other as well as with the data of the 40 recordings by other pianists. 
 [Worksheet 5] compares the data of the four recordings of each PETAL-associated pianist (twelve recordings in total) with each other as well as with the data of 41, 46, and 55 corpora.
