@@ -17,9 +17,9 @@ After a discography [worksheet 1] that identifies all available recordings of th
 * **41 recordings** in addition reduce the six recordings by Eduard Steuermann to only one (Steuermann 1957a and Steuermann 1963 respectively).
 * **40 recordings** exclude all Steuermann recordings.
 
-[Worksheet 2](https://github.com/petal2020/petal_schoenberg_op_19/blob/master/Schoenberg_op_19_dur%2Bperc_55-46-41-40.tsv) (duration and percentage) and [worksheet 3](https://github.com/petal2020/petal_schoenberg_op_19/blob/master/Schoenberg_op_19_tpo%2Brel_stdv_55-46-41-40.tsv) (tempo and rel. stdv) are provided in tsv-format in addition.
+[Worksheet 2](https://github.com/petal2020/petal_schoenberg_op_19/blob/master/Schoenberg_op_19_dur%2Bperc_55-46-41-40.tsv) (duration and percentage) and [worksheet 3](https://github.com/petal2020/petal_schoenberg_op_19/blob/master/Schoenberg_op_19_tpo%2Brel_stdv_55-46-41-40.tsv) (main tempo and relative standard deviation) are provided in tsv-format in addition.
 
 [Worksheet 4] compares the data of all six Steuermann recordings with each other as well as with the data of the corpus 40. 
 [Worksheet 5] compares the data of the four recordings of each PETAL-associated pianist (twelve recordings in total) with each other as well as with the data of the corpora 41, 46, and 55.
 
-[Worksheets 6-23] provide detailed tempo data for each piece including the calculationof mean tempi and standard deviation values. For each piece the corpora 55, 41 (S57a), and 41 (S63) are provided.
+[Worksheets 6-23] provide detailed tempo data for each piece including the calculation of mean tempi and standard deviation values. For each piece the corpora 55, 41 (S57a), and 41 (S63) are provided.
