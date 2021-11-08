@@ -3,9 +3,9 @@ data sets for performance analyses of Arnold Schoenberg’s *Six Little Piano Pi
 
 This repository introduces the data sets created during research on recorded performances of Arnold Schoenberg's *Sechs kleine Klavierstücke* (Six Little Piano Pieces) op. 19 (1911). It complements the following three articles:
 
-Utz, Christian, and Thomas Glaser. 2020a. “Gestaltete Form. Interaktion von Mikro- und Makroform in 46 Interpretationen (1925–2018) von Arnold Schönbergs *Sechs kleinen Klavierstücken* op. 19.” In *Zur performativen Expressivität des Kclaviers. Aufführung und Interpretation – Symposium München, 27.–28. April 2018*, ed. by Claus Bockmaier and Dorothea Hofmann. Munich: Allitera, 155–220. [Google Books](https://books.google.at/books?id=y2bdDwAAQBAJ&lpg=PP1&hl=de&pg=PP1#v=onepage&q&f=false)
+Utz, Christian, and Thomas Glaser. 2020a. “Gestaltete Form. Interaktion von Mikro- und Makroform in 46 Interpretationen (1925–2018) von Arnold Schönbergs *Sechs kleinen Klavierstücken* op. 19.” In *Zur performativen Expressivität des Kclaviers. Aufführung und Interpretation – Symposium München, 27.–28. April 2018*, ed. by Claus Bockmaier and Dorothea Hofmann. Munich: Allitera, 155–220. https://kugscholar.kug.ac.at/detail/o:116645
 
-Utz, Christian, and Thomas Glaser. 2020b. “Shaping Form. Performances as Analyses of Cyclic Macroform in Arnold Schoenberg’s *Sechs kleine Klavierstücke*, op. 19 (1911), in the Recordings of Eduard Steuermann and Other Pianists.” *music theory online* 26, no. 4. *forthcoming*
+Utz, Christian, and Thomas Glaser. 2020b. “Shaping Form. Performances as Analyses of Cyclic Macroform in Arnold Schoenberg’s *Sechs kleine Klavierstücke*, op. 19 (1911), in the Recordings of Eduard Steuermann and Other Pianists.” *Music Theory Online* 26, no. 4. https://doi.org/10.30535/mto.26.4.9
 
 Utz, Christian. 2021 (forthcoming). “Zur Plastizität verklanglichte Form. Tempo-, Klang- und Formgestaltung in Eduard Steuermanns Einspielungen von Arnold Schönbergs *Sechs kleinen Klavierstücken* op. 19 im Kontext der Interpretationsgeschichte des Werkes.” In *Eduard Steuermann. Musiker und Virtuose*, ed. by Lars E. Laubhold, Munich: edition text + kritik.
 
